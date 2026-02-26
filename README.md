@@ -37,8 +37,8 @@ Para rodar a ferramenta, você precisará apenas do Python 3.x e da biblioteca `
 
 ```bash
 # Clone o repositório
-git clone https://github.com/LucasBragaCyber/FileAnalyser.git)
-cd filetriage-cli
+git clone https://github.com/LucasBragaCyber/FileAnalyser.git
+cd fileAnalyser
 ```
 -  Instale as dependências
 ```bash
